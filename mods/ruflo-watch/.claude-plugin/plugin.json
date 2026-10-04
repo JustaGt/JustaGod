@@ -1,0 +1,6 @@
+{
+  "name": "ruflo-watch",
+  "version": "0.1.0",
+  "description": "Shows ruflo plugin status, asks before neural-trader tools run, and lists ruflo tools in a /ruflo pane",
+  "types": "./types/index.d.ts"
+}
